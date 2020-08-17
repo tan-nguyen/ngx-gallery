@@ -1,0 +1,12 @@
+{
+    "name": "ngx-gallery",
+    "version": "1.0.0",
+    "license": "MIT",
+    "repository": {
+      "url": "https://github.com/tan-nguyen/ngx-gallery"
+    },
+    "bugs": {
+      "email": "tanit.9x@gmail.com",
+      "url": "https://github.com/tan-nguyen/ngx-gallery/issues"
+    }
+}
